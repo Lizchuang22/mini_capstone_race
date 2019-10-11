@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding:0;
+	box-shadow: border-box;
+}
+
+body{
+	background-color: pink;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+
+.level {
+	position:absolute;
+	left: 300px;
+	top:80px;
+	width: 110px;
+	height: 80px;
+
+}
+
+.character{
+	position: absolute;
+	width:100px;
+}
+
+#ai{
+	top: 300px;
+}
+
+#player{
+	top:550px;
+
+}
+
+#taxi{
+	height: 200px;
+	position: absolute;
+	left:950px;
+	top:370px;
+}
+
+#person{
+	height: 200px;
+	
+}
+#person2{
+	height: 200px;
+	
+}
